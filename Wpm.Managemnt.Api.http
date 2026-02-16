@@ -1,0 +1,6 @@
+@Wpm.Managemnt.Api_HostAddress = https://localhost:7201
+
+GET {{Wpm.Managemnt.Api_HostAddress}}/api/version
+Accept: application/json
+
+###
